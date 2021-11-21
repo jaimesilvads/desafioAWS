@@ -10,7 +10,7 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 ## Desafio AWS EMR
 
 
-__*Foi Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform*__
+__*Foi Criando um projeto de processamento utiiando ppyspark no EMR da AWS*__
 
 O desafio consistia em efetuar um processamento de dados utilizando o produto EMR da AWS. Esse processamento deveira efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparecia no mesmo.
 
