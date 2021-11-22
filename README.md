@@ -45,7 +45,7 @@ Neste repositório há os arquivos de configuração e execução de análise de
    * Acessar com o vs code
 * Foi utiliado o Notepad++ para editar os códigos
    *  code .
-* foi utilizado 0s algoritimoa baixo:
+* foi utilizado 0s algoritimos abaixo:
    * dio-live-wordcount-test.py
    * map-reduce-count : contar
    * Instalar boto3: _pip install boto3_
